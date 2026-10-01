@@ -41,6 +41,17 @@ Gosto de transformar ideias em interfaces intuitivas, responsivas e funcionais, 
 
 ---
 
+---
+
+## 📊 Estatísticas do GitHub
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Katiadantass&show_icons=true&theme=default&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katiadantass&layout=compact&theme=default&hide_border=true" height="180"/>
+</p>
+
+---
+
 ## 📚 Atualmente estudando
 
 * Lógica de programação e algoritmos
