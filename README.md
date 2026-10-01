@@ -41,8 +41,6 @@ Gosto de transformar ideias em interfaces intuitivas, responsivas e funcionais, 
 
 ---
 
----
-
 ## 📊 Estatísticas do GitHub
 
 <p>
