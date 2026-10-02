@@ -1,5 +1,7 @@
 # Olá! Eu sou Kátia Dantas Amaral 👋
 
+![MarioCoder](https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8)
+
 ### Desenvolvedora Front-end Júnior | Desenvolvimento Web
 
 Sou formada em Serviço Social, com pós-graduações em Gestão Social: Políticas Públicas, Redes e Defesa de Direitos e Psicologia Organizacional e do Trabalho. Atualmente, direciono minha trajetória profissional para a área de Tecnologia, com foco em Desenvolvimento Front-end.
