@@ -50,6 +50,14 @@ Gosto de transformar ideias em interfaces intuitivas, responsivas e funcionais, 
 
 ---
 
+## 👾 Pac-Man das minhas contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Katiadantass/pacman-contribution-graph/output/pacman-contribution-graph.svg" alt="Pac-Man comendo minhas contribuições do GitHub" width="100%"/>
+</p>
+
+---
+
 ## 📚 Atualmente estudando
 
 * Lógica de programação e algoritmos
